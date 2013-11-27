@@ -1,0 +1,3 @@
+A finite automaton implementation in Haskell, using a digraph.
+
+http://en.wikipedia.org/wiki/Finite-state_machine
